@@ -1,0 +1,9 @@
+discord.py
+discord.py[voice]
+ffmpeg
+ffmpeg-python
+ffmpy
+youtube-dl
+asyncio
+PyNaCl
+lxml
